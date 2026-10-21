@@ -1,0 +1,16 @@
+{
+  "name": "أعطني قلبك - متابعة الصلاة",
+  "short_name": "أعطني قلبك",
+  "description": "رحلة صلاة وقرب من يسوع",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F7EEDF",
+  "theme_color": "#66764B",
+  "icons": [
+    {"src":"/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
